@@ -1,0 +1,2 @@
+systemd[1]: Initializing machine ID from KVM UUID.
+Mar 25 02:40:22 localhost kernel: random: systemd

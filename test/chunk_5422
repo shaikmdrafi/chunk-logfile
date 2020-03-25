@@ -1,0 +1,2 @@
+systemd: Started Login Service.
+Feb 18 22:49:50 localhost polkitd[1382]: Started polkitd version 0.1

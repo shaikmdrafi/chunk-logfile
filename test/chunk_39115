@@ -1,0 +1,2 @@
+systemd: Started Dump dmesg to /var/log/dmesg.
+Feb 18 22:49:50 localhost chronyd[1410]: chronyd vers

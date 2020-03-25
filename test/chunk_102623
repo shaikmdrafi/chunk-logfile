@@ -1,0 +1,2 @@
+bmdma 0xd000 irq 14
+Feb 18 22:49:48 localhost kernel: ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmd

@@ -1,0 +1,2 @@
+crashkernel=auto LANG=en_US.UTF-8
+Feb 18 22:49:47 localhost kernel: PID hash table entries: 2048 (or

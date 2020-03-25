@@ -1,0 +1,2 @@
+crashkernel=auto resulted in zero bytes of reserved memory.
+Mar 25 02:40:22 localhost kernel: kvm-cl

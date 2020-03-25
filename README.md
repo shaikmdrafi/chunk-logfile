@@ -2,7 +2,7 @@
 
 `python main.py log.txt` it will create test directory to store all chuncked files each file will have 100 characters
 
-- If it’s a broken word, add it to next file
+- If there is a broken word, i am adding it to next file
 
 
 # Validation 
@@ -17,3 +17,15 @@ My goal is to have 100 characters in a single chunk , so the word `leave` is bro
 I am adding the broken word into next chunk as per the requirement .
 
 ![validate.png](validate.png)
+
+## Chunk file naming convention
+- chunk_0
+- chunk_1
+- chunk_2
+- chunk_3
+- .
+- .
+- .
+- .
+- etc
+

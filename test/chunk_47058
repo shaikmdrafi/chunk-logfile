@@ -1,0 +1,2 @@
+kernel: mousedev: PS/2 mouse device common for all mice
+Mar 25 02:40:22 localhost kernel: rtc_cmos r

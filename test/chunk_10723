@@ -1,0 +1,2 @@
+'cgroup_disable=memory' option if you don't want memory cgroups
+Mar 25 02:40:22 localhost kernel: ts

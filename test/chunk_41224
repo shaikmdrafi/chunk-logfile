@@ -1,0 +1,2 @@
+DMA      [mem 0x00001000-0x00ffffff]
+Feb 18 22:49:47 localhost kernel:  DMA32    [mem 0x01000000-0xf

@@ -1,0 +1,2 @@
++GNUTLS +ACL +XZ +LZ4 -SECCOMP +BLKID +ELFUTILS +KMOD +IDN)
+Feb 18 22:49:47 localhost systemd[1]: De

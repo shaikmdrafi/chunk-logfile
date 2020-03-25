@@ -1,0 +1,2 @@
+..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Mar 25 02:40:22 localhost kernel: smpboot: CPU0

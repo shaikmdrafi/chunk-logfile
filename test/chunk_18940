@@ -1,0 +1,2 @@
+rtc_cmos: rtc core: registered rtc_cmos as rtc0
+Feb 18 22:49:47 localhost kernel: rtc_cmos rtc_cmos:

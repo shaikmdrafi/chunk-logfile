@@ -1,0 +1,2 @@
+kernel: tsc: Refined TSC clocksource calibration: 1390.069 MHz
+Mar 25 02:40:23 localhost kernel: SGI

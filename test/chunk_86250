@@ -1,0 +1,2 @@
+resource [bus 00-ff]
+Feb 18 22:49:47 localhost kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x10:

@@ -1,0 +1,2 @@
+subj=system_u:system_r:auditd_t:s0 res=1
+Feb 18 22:49:49 localhost audispd: No plugins found, exitin

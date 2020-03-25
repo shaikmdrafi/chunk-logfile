@@ -1,0 +1,2 @@
+x86/pti: Unmapping kernel while in userspace
+Mar 25 02:40:22 localhost kernel: Hierarchical RCU impl

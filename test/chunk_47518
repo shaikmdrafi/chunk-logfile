@@ -1,0 +1,3 @@
+tlb_flushall_shift: 6
+Feb 18 22:49:47 localhost kernel: Speculative Store Bypass: Vulnerable
+Feb 18 

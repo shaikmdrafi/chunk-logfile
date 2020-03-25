@@ -1,0 +1,2 @@
+PIIX4 ACPI
+Mar 25 02:40:22 localhost kernel: pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by

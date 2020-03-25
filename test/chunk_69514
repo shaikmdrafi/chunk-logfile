@@ -1,0 +1,2 @@
+localhost kernel: ehci-pci: EHCI PCI platform driver
+Mar 25 02:40:22 localhost kernel: ohci_hcd: USB

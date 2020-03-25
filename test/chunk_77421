@@ -1,0 +1,2 @@
+setup node 0 [mem 0x00001000-0x1ffeffff]
+Feb 18 22:49:47 localhost kernel: ACPI: PM-Timer IO Port: 0
