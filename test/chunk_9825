@@ -1,2 +1,2 @@
 +SCFILTER +SECHASH +SIGND +ASYNCDNS +IPV6 +DEBUG)
-Mar 25 02:40:25 localhost systemd: Started RPC bin
+Mar 25 02:40:25 localhost systemd: Started RPC

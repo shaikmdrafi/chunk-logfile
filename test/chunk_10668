@@ -1,2 +1,2 @@
 = 0x1fff0 max_arch_pfn = 0x400000000
-Mar 25 02:40:22 localhost kernel: PAT configuration [0-7]: WB  
+Mar 25 02:40:22 localhost kernel: PAT configuration [0-7]: WB 

@@ -1,2 +1,2 @@
 (initrd) + 6.308s (userspace) = 7.841s.
-Mar 25 02:40:33 localhost systemd: Created slice User Slice 
+Mar 25 02:40:33 localhost systemd: Created slice User Slice

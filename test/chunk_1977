@@ -1,2 +1,2 @@
 xstate_sizes[2]: 0100
-Mar 25 02:40:22 localhost kernel: xsave: enabled xstate_bv 0x7, cntxt size 0x3
+Mar 25 02:40:22 localhost kernel: xsave: enabled xstate_bv 0x7, cntxt size

@@ -1,2 +1,2 @@
 kvm-clock: cpu 0, msr 0:1ff78001, primary cpu clock
-Mar 25 02:40:22 localhost kernel: kvm-clock: Usi
+Mar 25 02:40:22 localhost kernel: kvm-clock:

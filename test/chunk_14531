@@ -1,2 +1,2 @@
 [io  0x03f6]
-Mar 25 02:40:22 localhost kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x
+Mar 25 02:40:22 localhost kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io 

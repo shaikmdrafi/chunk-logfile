@@ -1,2 +1,2 @@
 SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
-Mar 25 02:40:22 localhost kernel: x86/pti
+Mar 25 02:40:22 localhost kernel:

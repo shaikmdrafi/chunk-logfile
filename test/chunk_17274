@@ -1,3 +1,2 @@
 Mounted RPC Pipe File System.
-Mar 25 02:40:24 localhost systemd: Reached target rpc_pipefs.target.
-M
+Mar 25 02:40:24 localhost systemd: Reached target

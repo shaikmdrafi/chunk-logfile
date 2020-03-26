@@ -1,1 +1,1 @@
-[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedes
+[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher'

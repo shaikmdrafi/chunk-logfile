@@ -1,3 +1,2 @@
 Cleaning Up and Shutting Down Daemons...
-Mar 25 02:40:23 localhost systemd: Stopped target Timers.
-M
+Mar 25 02:40:23 localhost systemd: Stopped target

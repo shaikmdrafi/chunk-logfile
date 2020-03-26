@@ -1,3 +1,2 @@
 localhost kernel: sda: sda1
-Mar 25 02:40:23 localhost kernel: sd 0:0:0:0: [sda] Attached SCSI disk
-M
+Mar 25 02:40:23 localhost kernel: sd 0:0:0:0: [sda] Attached SCSI

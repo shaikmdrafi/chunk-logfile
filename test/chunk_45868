@@ -1,2 +1,2 @@
 localhost systemd[1]: Started Journal Service.
-Mar 25 02:40:22 localhost systemd: Started udev Coldp
+Mar 25 02:40:22 localhost systemd: Started udev

@@ -1,2 +1,2 @@
 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
-Mar 25 02:40:23 localhost kernel: ata2: PATA max UDMA/33 cmd 0x1
+Mar 25 02:40:23 localhost kernel: ata2: PATA max UDMA/33 cmd

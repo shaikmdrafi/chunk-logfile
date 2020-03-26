@@ -1,1 +1,1 @@
-localhost kernel: Command line: BOOT_IMAGE=/boot/vmlinuz-3.10.0-957.12.2.el7.x86_64 root=UUID=8ac075
+localhost kernel: Command line: BOOT_IMAGE=/boot/vmlinuz-3.10.0-957.12.2.el7.x86_64

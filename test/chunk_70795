@@ -1,2 +1,2 @@
 systemd: uninitialized urandom read (16 bytes read)
-Mar 25 02:40:22 localhost systemd[1]: systemd 21
+Mar 25 02:40:22 localhost systemd[1]: systemd

@@ -1,2 +1,2 @@
 bmdma 0xd008 irq 15
-Feb 18 22:49:48 localhost kernel: ata1.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/1
+Feb 18 22:49:48 localhost kernel: ata1.00: ATA-6: VBOX HARDDISK, 1.0, max

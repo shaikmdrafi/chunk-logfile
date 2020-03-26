@@ -1,2 +1,2 @@
 read)
-Feb 18 22:49:47 localhost kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Feb 18 22:49:47 localhost kernel: random: systemd: uninitialized urandom read (16 bytes

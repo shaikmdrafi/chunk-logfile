@@ -1,2 +1,2 @@
 kernel: e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
-Mar 25 02:40:26 localhost kern
+Mar 25 02:40:26 localhost
